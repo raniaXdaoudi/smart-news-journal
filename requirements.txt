@@ -1,0 +1,13 @@
+# Web scraping
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# Résumé de texte (mode LOCAL)
+sumy>=0.11.0
+
+# Génération PDF
+reportlab>=4.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+
